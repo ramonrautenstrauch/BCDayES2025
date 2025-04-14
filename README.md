@@ -29,3 +29,7 @@ Este repositorio se distribuye bajo la [Licencia MIT](LICENSE). Consulta el arch
 Si tienes alguna pregunta o comentario, puedes contactarnos a través de LinkedIn:
 - **Toni Granell:** [@tgranell](https://www.linkedin.com/in/tgranell/) 
 - **Ramón Rautenstrauch:** [@ramonrautenstrauch](https://www.linkedin.com/in/ramonrautenstrauch/)
+
+Por cierto si quieres estar al día de todo lo relacionado con la inteligencia artificial generativa y Copilot, en el blog de Ramón tienes información siempre actualizada: [Consultor 365](https://www.consultor365.com/)
+
+¡Esperamos que disfrutes de la presentación y encuentres inspiración para impulsar la innovación en inteligencia artificial!
